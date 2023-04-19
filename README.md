@@ -1,4 +1,5 @@
-# MIE443-Contest-2
+# Feature Detection
+
 To run this code, execute the following commands in separate terminals:
 1: roslaunch turtlebot_bringup minimal.launch
 2: roslaunch turtlebot_navigation amcl_demo.launch map_file:=/<map_path>/my_map.yaml
